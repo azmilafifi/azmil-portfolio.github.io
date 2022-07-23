@@ -40,7 +40,15 @@ const About = () => {
             </article>
           </div>
           
-          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ratione ipsa asperiores eaque consequuntur ipsam eum, officiis aliquid excepturi iste magni explicabo maxime modi esse consequatur vero optio eligendi ex vitae!</p>
+          <p>An aerospace engineering graduate with 1-2 years experience
+working in IT company. A proactive, multi-tasker and great team
+player seeking to hone engineering/prorgamming skills and
+knowledge in professional setting. A self taught programmer
+determined to learn new things and skills. Currently exploring the
+world of web development preferably frontend related. I am also
+interested in other fields other than engineering to enhance my
+skillset.
+</p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
 

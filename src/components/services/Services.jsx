@@ -17,46 +17,46 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BsCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Develop website using React</p>
             </li>
             <li>
               <BsCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Clean design website</p>
             </li>
             <li>
               <BsCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Responsive design</p>
             </li>
             <li>
               <BsCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>HTML, CSS, Javascript</p>
             </li>
           </ul>
         </article>
 
-{/* End of project management */}
+        {/* End of web development */}
 
         <article className='service'>
           <div className='service__head'>
-            <h3>Project Management</h3>
+            <h3>IT Project Management</h3>
           </div>
 
           <ul className='service__list'>
             <li>
               <BsCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Agile practitioner</p>
             </li>
             <li>
               <BsCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Mathematical and budgeting skills</p>
             </li>
             <li>
               <BsCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Market research and design</p>
             </li>
             <li>
               <BsCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Identify and mitigate potential risks</p>
             </li>
           </ul>
         </article>
@@ -71,19 +71,19 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BsCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Develop AI project</p>
             </li>
             <li>
               <BsCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Certified deep learning engineer</p>
             </li>
             <li>
               <BsCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Mechanical Engineering related</p>
             </li>
             <li>
               <BsCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Design (canva,figma)</p>
             </li>
           </ul>
         </article>
