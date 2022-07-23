@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/azmil-portfolio.github.io/static/css/main.4b83f2df.css",
+    "main.js": "/azmil-portfolio.github.io/static/js/main.b16824fb.js",
+    "static/media/backgound1.png": "/azmil-portfolio.github.io/static/media/backgound1.58ea58f7a78fa70763d3.png",
+    "static/media/me3.png": "/azmil-portfolio.github.io/static/media/me3.e3641746189ee720a8c1.png",
+    "static/media/me.png": "/azmil-portfolio.github.io/static/media/me.6aad603a904e8ea17731.png",
+    "static/media/CV.pdf": "/azmil-portfolio.github.io/static/media/CV.ff8c0c7683c60d4c8bb4.pdf",
+    "index.html": "/azmil-portfolio.github.io/index.html",
+    "main.4b83f2df.css.map": "/azmil-portfolio.github.io/static/css/main.4b83f2df.css.map",
+    "main.b16824fb.js.map": "/azmil-portfolio.github.io/static/js/main.b16824fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b83f2df.css",
+    "static/js/main.b16824fb.js"
+  ]
+}
