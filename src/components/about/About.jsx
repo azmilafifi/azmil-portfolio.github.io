@@ -43,7 +43,7 @@ const About = () => {
           
           <p>An aerospace engineering graduate with 1-2 years experience
 working in IT company. A proactive, multi-tasker and great team
-player seeking to hone engineering/prorgamming skills and
+player seeking to hone engineering/progamming skills and
 knowledge in professional setting. A self taught programmer
 determined to learn new things and skills. Currently exploring the
 world of web development preferably frontend related. I am also
