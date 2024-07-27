@@ -12,7 +12,7 @@ const Header = () => {
         <h5>Hello I'm</h5>
         <h1>Azmil Afifi</h1>
         <h5 className="text-light">
-          Junior Frontend Engineer | Project Manager
+          Frontend Engineer | Project Manager | React Developer
         </h5>
         <CTA />
         <HeaderSocials />

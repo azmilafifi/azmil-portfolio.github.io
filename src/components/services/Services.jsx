@@ -71,7 +71,7 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BsCheck className='service__list-icon' />
-              <p>Develop AI project</p>
+              <p>Mobile App development using react native</p>
             </li>
             <li>
               <BsCheck className='service__list-icon' />
@@ -83,7 +83,7 @@ const Services = () => {
             </li>
             <li>
               <BsCheck className='service__list-icon' />
-              <p>Design (canva,figma)</p>
+              <p>AI related projects</p>
             </li>
           </ul>
         </article>
