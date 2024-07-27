@@ -17,7 +17,8 @@ const Contact = () => {
           console.log(error.text);
       });
     
-      e.target.reset()
+    e.target.reset()
+    
   };
   return (
 
@@ -27,24 +28,25 @@ const Contact = () => {
       <div className="container contact__container">
         <div className="contact__options">
           <article className="contact__option">
-            <MdOutlineEmail className='contact__option-icon'/>
+            <MdOutlineEmail className='contact__option-icon' />
             <h4>Email</h4>
             <h5>azmilafifi@gmail.com</h5>
-            <a href="mailto:azmilafifi@gmail.com" target = "_blank">Send a message</a>
+            <a href="mailto:azmilafifi@gmail.com" target="_blank">Send a message</a>
           </article>
           <article className="contact__option">
-            <BsWhatsapp className='contact__option-icon'/>
+            <BsWhatsapp className='contact__option-icon' />
             <h4>Whatsapp</h4>
             <h5>+60192835994</h5>
-            <a href="https://wa.me/+60192835994?" target = "_blank">Send a message</a>
+            <a href="https://wa.me/+60192835994?" target="_blank">Send a message</a>
           </article>
         </div>
 
         {/* END OF CONTACT OPTIONS */}
-        <form ref={form} onSubmit= {sendEmail}>
+        
+        <form ref={form} onSubmit={sendEmail}>
           <input type="text" name='name' placeholder='Your Full Name' required />
           <input type="text" name='email' placeholder='Your Email' required />
-          <textarea type="text" name='message' rows="7" placeholder ='Your Message' required></textarea>
+          <textarea type="text" name='message' rows="7" placeholder='Your Message' required></textarea>
           <button type='submit' className='btn btn-primary'>Send Message</button>
         </form>
       </div>

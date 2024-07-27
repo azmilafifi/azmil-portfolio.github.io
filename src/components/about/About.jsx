@@ -24,7 +24,7 @@ const About = () => {
               <article className='about__card'>
                 <FaAward/>
                 <h5>Experience</h5>
-                <small>2+ years</small>
+                <small>4+ years</small>
             </article>
 
             <article className='about__card'>
@@ -36,19 +36,21 @@ const About = () => {
             <article className='about__card'>
                 <FaConnectdevelop/>
                 <h5>Web Development</h5>
-                <small>1-2 years</small>
+                <small>3-4 years</small>
                 
             </article>
           </div>
           
-          <p>An aerospace engineering graduate with 1-2 years experience
-working in IT company. A proactive, multi-tasker and great team
-player seeking to hone engineering/programming skills and
-knowledge in professional setting. A self taught programmer
-determined to learn new things and skills. Currently exploring the
-world of web development preferably frontend related. I am also
-interested in other fields other than engineering to enhance my
-skillset.
+          <p>A motivated professional with an engineering background and 
+4 years of IT experience, I am now exploring web and mobile app 
+development, particularly focusing on frontend development. I 
+excel in analyzing and solving complex problems, whether 
+independently or as part of a team. With extensive experience in 
+React and React Native, I bring a strong foundation in building 
+user interfaces and implementing responsive designs. Eager to 
+leverage my technical and analytical expertise, I am committed to 
+contributing to the development of innovative and impactful web 
+applications
 </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
